@@ -1,0 +1,11 @@
+{
+  "1007_HKG_TPE": {
+    "6": {
+      "type": "Next_Quarter_Possession_Award",
+      "explanation": "Unknown TPE infraction at the end of Q1 while HKG P17 concludes as a goal. No Q2 faceoff: HKG takes the first Q2 possession via Dead_ball_Restart. This is a next-quarter possession award, NOT an immediate HKG possession loss. Source Possession_Change Yes/No/N/A can be retained; analytic Event_Scope=Next_Quarter_Award.",
+      "source_quarter": "Q1",
+      "next_quarter": "Q2",
+      "awarded_team": "HKG"
+    }
+  }
+}
